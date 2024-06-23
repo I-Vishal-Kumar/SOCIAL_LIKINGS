@@ -1,0 +1,38 @@
+{
+    "name": "likings",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.4",
+        "@emotion/styled": "^11.11.5",
+        "@material-tailwind/react": "^2.1.9",
+        "@mui/icons-material": "^5.15.20",
+        "@mui/joy": "^5.0.0-beta.36",
+        "@mui/material": "^5.15.20",
+        "axios": "^1.7.2",
+        "cors": "^2.8.5",
+        "framer-motion": "^11.2.11",
+        "jose": "^5.4.1",
+        "js-cookie": "^3.0.5",
+        "mongoose": "^8.4.3",
+        "next": "14.2.4",
+        "react": "^18",
+        "react-dom": "^18",
+        "react-image-upload": "^3.0.1",
+        "react-images-uploading": "^3.1.7",
+        "socket.io-client": "^4.7.5",
+        "uuid": "^10.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^8",
+        "eslint-config-next": "14.2.4",
+        "postcss": "^8",
+        "tailwindcss": "^3.4.1"
+    }
+}
