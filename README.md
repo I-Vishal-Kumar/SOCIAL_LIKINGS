@@ -1,6 +1,11 @@
-# **Project Name**
+# **Social_likings**
+
+#### Drive video link 
+   https://drive.google.com/file/d/1XxMnUPj-9e8IT_2T44RLPhEm-eJzvJwC/view?usp=sharing
 
 This project integrates a Next.js frontend with an Express.js backend. The frontend, stored in the `likings` folder, provides the user interface, while the backend, stored in the `server` folder, handles the API and business logic.
+
+<img width="951" alt="Screenshot 2024-06-23 163507" src="https://github.com/I-Vishal-Kumar/SOCIAL_LIKINGS/assets/149044653/8e538b7f-3829-48cc-9f82-a16be8b29f3f">
 
 ## **Table of Contents**
 
